@@ -1,6 +1,12 @@
 <h1 align="center">Oi! 👋, sou Rafael Araújo</h1>
 <h3 align="center">Estudante assíduo e Ser Humano em constante desenvolvimento.</h3>
 
+- 📖 Engenharia da Computação - UFPE
+
+- 💻 Programação em C
+
+- 🗺️ Inglês fluente
+
 - 📫 E-mail **rflaa27@gmail.com**
 
 - ⚡ Hobbies **Contrabaixo, academia, basquete e leitura.**
