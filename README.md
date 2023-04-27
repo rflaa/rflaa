@@ -3,11 +3,11 @@
 
 - 📖 Engenharia da Computação - UFPE
 
+- 📫 E-mail **rflaa27@gmail.com**
+
 - 💻 Programação em C
 
 - 🗺️ Inglês fluente
-
-- 📫 E-mail **rflaa27@gmail.com**
 
 - ⚡ Hobbies - **Contrabaixo, academia, basquete e leitura.**
 
